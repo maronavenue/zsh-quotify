@@ -46,7 +46,6 @@ To me, this is like saying that asparagus is ‘the most articulate vegetable ev
 # Internet
 
 "“The Internet? Is that thing still around?”\n(Homer Simpson)"
-"“The Web is like a dominatrix. Everywhere I turn, I see little buttons ordering me to Submit.”\n(Nytwind)"
 "“Come to think of it, there are already a million monkeys on a million typewriters,\n\
 and Usenet is nothing like Shakespeare.”\n(Blair Houghton)"
 
@@ -233,9 +232,9 @@ to indicate successful termination of their C programs.”\n\
 "“Java is, in many ways, C++–.”\n\
 (Michael Feldman)"
 
-"“Saying that Java is nice because it works on all OSes is like saying\n\
-that anal sex is nice because it works on all genders.”\n\
-(Alanna)"
+# "“Saying that Java is nice because it works on all OSes is like saying\n\
+# that anal sex is nice because it works on all genders.”\n\
+# (Alanna)"
 
 "“Fine, Java MIGHT be a good example of what a programming language should be like.\n\
 But Java applications are good examples of what applications SHOULDN’T be like.”\n\
@@ -246,8 +245,8 @@ But Java applications are good examples of what applications SHOULDN’T be like
 
 # Open Source
 
-"“Software is like sex: It’s better when it’s free.”\n\
-(Linus Torvalds)"
+# "“Software is like sex: It’s better when it’s free.”\n\
+# (Linus Torvalds)"
 
 "“The only people who have anything to fear from free software\n\
 are those whose products are worth even less.”\n\
@@ -359,4 +358,37 @@ technology, although one should be careful with such statements, as they tend to
 
 "“If it keeps up, man will atrophy all his limbs but the push-button finger.”\n\
 (Frank Lloyd Wright)"
+
+# https://github.com/owenvoke/quoter-zsh
+
+"“Intelligence is the ability to avoid doing work, yet getting the work done.”\n\
+(Linus Torvalds)"
+
+"“People who are doing things for fun do things the right way by themselves.”\n\
+(Linus Torvalds)"
+
+"“Those that can, do. Those that can’t, complain.”\n\
+(Linus Torvalds)"
+
+"“First, solve the problem. Then, write the code.”\n\
+(John Johnson)"
+
+"“Testing shows the presence, not the absence of bugs.”\n\
+(Edsger W. Dijkstra)"
+
+"“I would love to change the world, but they won’t give me the source code.”\n\
+(Anonymous)"
+
+"“Never trust a computer you can’t throw out a window.”\n\
+(Steve Wozniak)"
+
+"“I do not fear computers. I fear the lack of them.”\n\
+(Isaac Asimov)"
+
+"“Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.”\n\
+(Martin Golding)"
+
+"“Things that are impossible just take longer.”\n\
+(Ian Hickson)"
+
 )
